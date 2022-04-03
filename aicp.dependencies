@@ -2,6 +2,6 @@
   {
     "repository": "AICP/device_google_bonito",
     "target_path": "device/google/bonito",
-    "branch":      "r11.1"
+    "branch":      "s12.1"
   }
 ]
